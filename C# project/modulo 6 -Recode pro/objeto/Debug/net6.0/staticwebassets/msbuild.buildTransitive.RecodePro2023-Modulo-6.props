@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RecodePro2023-Modulo-6.props" />
+</Project>
